@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ArchiveManagementSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ArchiveManagementSystem_jar</output-path>
+    <root id="archive" name="ArchiveManagementSystem.jar">
+      <element id="module-output" name="ArchiveManagementSystem" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/OPP_MultiThread/mysql-connector-java-8.0.22/mysql-connector-java-8.0.22.jar" path-in-jar="/" />
+      <element id="library" level="project" name="mysql-connector-java-8.0.22" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mariadb-java-client-2.7.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
